@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Dutch Golden Age Floral Still Life Painting",
+      "description": "Exquisite 17th century style floral still life painting featuring vibrant tulips, roses, carnations and poppies in an ornate bronze vase. Rich colors and masterful composition in the Dutch Golden Age tradition with dramatic dark background.",
+      "currentBidPrice": 3850.00,
+      "timeLeft": "2d 14h",
+      "bidsCount": 42,
+      "image": "https://i.postimg.cc/hvdLDRVX/Bid7-min.png"
+    },
+    {
+      "id": 2,
+      "title": "Fujifilm X-T30 Mirrorless Camera with Lens",
+      "description": "Professional Fujifilm X-T30 mirrorless digital camera in pristine condition. Includes high-quality zoom lens with image stabilization. Perfect for photography enthusiasts and professionals. Complete with all original accessories.",
+      "currentBidPrice": 1425.00,
+      "timeLeft": "6h 22m",
+      "bidsCount": 38,
+      "image": "https://i.postimg.cc/nznKHmML/Bid1-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Luxury Omega Sea-master Chronograph Watch",
+      "description": "Stunning Omega Seamaster professional chronograph watch with blue dial, stainless steel bracelet, and rotating bezel. Water resistant diving watch with automatic movement. Comes with original box and papers.",
+      "currentBidPrice": 4200.00,
+      "timeLeft": "1d 8h",
+      "bidsCount": 67,
+      "image": "https://i.postimg.cc/N0B2Tctr/Bid4-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Vintage Wooden Dining Chair with Decorative Backrest",
+      "description": "Charming antique wooden chair with elegant carved details and turned spindle legs. Beautiful natural wood grain and decorative backrest design. Perfect for dining room or as accent piece. Solid construction with vintage character.",
+      "currentBidPrice": 185.50,
+      "timeLeft": "4h 45m",
+      "bidsCount": 19,
+      "image": "https://i.postimg.cc/FzdYmFbf/Bid5-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Milk and Honey by Rupi Kaur - Bestselling Poetry Book",
+      "description": "First edition of the iconic New York Times bestseller 'Milk and Honey' by Rupi Kaur. Beautifully illustrated poetry collection exploring themes of love, loss, trauma, and healing. Pristine condition with signature bee artwork on cover.",
+      "currentBidPrice": 45.00,
+      "timeLeft": "18h 30m",
+      "bidsCount": 28,
+      "image": "https://i.postimg.cc/CxVNK5vJ/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro 15-inch for Development and Design",
+      "description": "High-performance MacBook Pro laptop perfect for programming and creative work. Retina display, powerful processor, ample RAM. Shown with professional development environment setup. Excellent condition with minimal wear.",
+      "currentBidPrice": 1875.00,
+      "timeLeft": "12h 15m",
+      "bidsCount": 51,
+      "image": "https://i.postimg.cc/bYBn5W0k/Bid3-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Les Paul Style Electric Guitar - Ocean Blue Finish",
+      "description": "Gorgeous Les Paul style electric guitar with stunning ocean blue burst finish and flame maple top. Dual humbucker pickups, tune-o-matic bridge, bound fretboard with pearl inlays. Rich, warm tone perfect for rock and blues.",
+      "currentBidPrice": 1295.00,
+      "timeLeft": "3d 5h",
+      "bidsCount": 34,
+      "image": "https://i.postimg.cc/2SvnhGZf/Bid2-min.png"
+    }
+]
+

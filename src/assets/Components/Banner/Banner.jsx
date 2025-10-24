@@ -21,7 +21,7 @@ const Banner = () => {
                         <p className="mb-5 text-2xl font-light">
                             Discover rare collectibles, luxury goods, and vintage treasures in our curated auctions
                         </p>
-                        <button className="btn bg-white rounded-full">Explore Auctions</button>
+                        <button className="btn bg-white rounded-full text-xl">Explore Auctions</button>
                     </div>
                 </div>
             </div>
