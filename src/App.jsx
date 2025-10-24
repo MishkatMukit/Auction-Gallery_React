@@ -4,8 +4,10 @@ import Navbar from './assets/Components/Navbar/Navbar'
 function App() {
 
   return (
-    <>
-      <Navbar></Navbar>
+    < >
+      <div className='bg-[#EBF0F5]  min-h-screen'>
+        <Navbar></Navbar>
+      </div>
     </>
   )
 }
