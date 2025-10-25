@@ -13,8 +13,8 @@ table td{
 
     padding: 20px 0px 20px 20px;
 }
-table tr{
-    border-top: 2px solid #DCE5F3;
+table tbody tr{
+    border-top: 3px solid #DCE5F3;
 
     text-align: center;
 }
